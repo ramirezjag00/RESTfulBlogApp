@@ -7,5 +7,5 @@ Used the ff packages:
 body-parser, mongoose,express,ejs, method-override, express-sanitizer and semantic-ui
 
 Designed using:
-RESTful
+RESTful,
 MEN STACK
