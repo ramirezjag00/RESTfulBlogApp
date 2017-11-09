@@ -1,5 +1,11 @@
 # RESTfulBlogApp
-RESTfulBlogApp (MEN Stack)
+RESTfulBlogApp
+
+A blog app where people can randomly post blogs (title, image, blog content, date posted)
 
 Used the ff packages:
-Used body-parser, mongoose,express,ejs, method-override, express-sanitizer and semantic-ui
+body-parser, mongoose,express,ejs, method-override, express-sanitizer and semantic-ui
+
+Designed using:
+RESTful
+MEN STACK
